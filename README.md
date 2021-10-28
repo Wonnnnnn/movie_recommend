@@ -1,3 +1,17 @@
-#movie won
+#Movie Storage
 
-React JS Fundamentals Course
+@Developer
+- Won Kim 
+- Joohyun Lee 
+
+@Tools
+- React 
+- JavaScript
+- CSS
+- HTML
+
+@Movie Api
+YTS.MX
+
+
+
